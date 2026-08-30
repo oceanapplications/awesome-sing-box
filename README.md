@@ -37,6 +37,7 @@ Maintained by SagerNet, using the sing-box core directly:
 - [ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box or mihomo as a client from a shell; popular on routers.
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop GUI built with Wails (Go) and Vue 3.
 - [Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility powered by sing-box; a maintained successor in the nekoray lineage.
+- [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that proxies only the browser: a native helper runs a pinned sing-box, Xray, or mihomo binary and picks the core each server needs. The extension is closed source under a EULA; the [native helper](https://github.com/c0nn3ct-info/noctis) is MIT.
 
 ## Mobile and Apple-platform clients
 
