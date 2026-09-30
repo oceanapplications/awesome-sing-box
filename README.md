@@ -20,6 +20,7 @@ Contributions welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform itself. CLI, library, and the engine behind everything below.
 - [Documentation](https://sing-box.sagernet.org/) - Official docs: configuration schema, route rules, rule-set format.
+- [sing-box-lx](https://github.com/Leadaxe/sing-box-lx) - Client-side sing-box fork kept in sync with upstream stable; adds XHTTP transport, AmneziaWG 2.0/3.x, a MASQUE (CONNECT-IP) outbound, and VLESS post-quantum encryption, each isolated behind build tags or separate files. Ships as a drop-in `sing-box` binary.
 
 ## Official clients
 
@@ -37,6 +38,7 @@ Maintained by SagerNet, using the sing-box core directly:
 - [ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box or mihomo as a client from a shell; popular on routers.
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop GUI built with Wails (Go) and Vue 3.
 - [Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility powered by sing-box; a maintained successor in the nekoray lineage.
+- [singbox-launcher](https://github.com/Leadaxe/singbox-launcher) - Windows/macOS/Linux GUI for sing-box, bundled with the sing-box-lx core; multi-subscription management, visual routing configurator, per-process traffic profiler, and remote management of cores on routers or VPS.
 
 ## Mobile and Apple-platform clients
 
