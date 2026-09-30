@@ -43,6 +43,7 @@ Maintained by SagerNet, using the sing-box core directly:
 - [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client supporting sing-box, Xray, TUIC, Hysteria, Reality, Trojan, and more.
 - [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) - sing-box based universal proxy toolchain for Android.
 - [Karing](https://github.com/KaringX/karing) - Simple and powerful proxy utility with support for Clash and sing-box routing rules; iOS, Android, Windows, macOS.
+- [Orden](https://github.com/tsyrenov1987/orden-android-client) - Open-source (MIT) Android client on the sing-box core: VLESS-Reality and Hysteria2 with automatic failover between them, on-device, no accounts, no logs.
 - [Traveler's VPN](https://travelersvpn.com/) - Commercial, closed-source iOS/iPadOS/macOS client built on the sing-box core; automatic split-tunnel travel routing over user-supplied Outline/Shadowsocks, WireGuard, or Trojan servers, driven by `.srs` rule sets. *(Maintained by this list's author; see disclosure below.)*
 
 ## Server panels and install scripts
