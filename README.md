@@ -44,6 +44,7 @@ Maintained by SagerNet, using the sing-box core directly:
 - [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) - sing-box based universal proxy toolchain for Android.
 - [Karing](https://github.com/KaringX/karing) - Simple and powerful proxy utility with support for Clash and sing-box routing rules; iOS, Android, Windows, macOS.
 - [Traveler's VPN](https://travelersvpn.com/) - Commercial, closed-source iOS/iPadOS/macOS client built on the sing-box core; automatic split-tunnel travel routing over user-supplied Outline/Shadowsocks, WireGuard, or Trojan servers, driven by `.srs` rule sets. *(Maintained by this list's author; see disclosure below.)*
+- [Aureon R](https://github.com/Aureon-R/aureon-r-client) - Free, closed-source Android proxy client with sing-box and Xray, user-provided nodes, and one-click Debian VPS deployment; signed releases and documentation are public.
 
 ## Server panels and install scripts
 
