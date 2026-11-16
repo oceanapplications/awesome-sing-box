@@ -38,6 +38,8 @@ Maintained by SagerNet, using the sing-box core directly:
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop GUI built with Wails (Go) and Vue 3.
 - [Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility powered by sing-box; a maintained successor in the nekoray lineage.
 
+- [Aureon R for Windows](https://github.com/Aureon-R/aureon-r-windows) - Windows proxy client with sing-box and Xray cores, self-hosted Debian VPS deployment, and encrypted backups; closed-source application, public installation packages and documentation.
+
 ## Mobile and Apple-platform clients
 
 - [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client supporting sing-box, Xray, TUIC, Hysteria, Reality, Trojan, and more.
