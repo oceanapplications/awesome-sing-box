@@ -38,12 +38,16 @@ Maintained by SagerNet, using the sing-box core directly:
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop GUI built with Wails (Go) and Vue 3.
 - [Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility powered by sing-box; a maintained successor in the nekoray lineage.
 
+- [Aureon R for Windows](https://github.com/Aureon-R/aureon-r-windows) - Free, closed-source Windows proxy client using sing-box and Xray with user-imported nodes and one-click Debian VPS deployment; repository hosts installers and documentation, not application source.
+
 ## Mobile and Apple-platform clients
 
 - [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client supporting sing-box, Xray, TUIC, Hysteria, Reality, Trojan, and more.
 - [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) - sing-box based universal proxy toolchain for Android.
 - [Karing](https://github.com/KaringX/karing) - Simple and powerful proxy utility with support for Clash and sing-box routing rules; iOS, Android, Windows, macOS.
 - [Traveler's VPN](https://travelersvpn.com/) - Commercial, closed-source iOS/iPadOS/macOS client built on the sing-box core; automatic split-tunnel travel routing over user-supplied Outline/Shadowsocks, WireGuard, or Trojan servers, driven by `.srs` rule sets. *(Maintained by this list's author; see disclosure below.)*
+
+- [Aureon R for Android](https://github.com/Aureon-R/aureon-r-client) - Free, closed-source Android proxy client using sing-box and Xray with user-imported nodes and one-click Debian VPS deployment; repository hosts signed APKs and documentation, not application source.
 
 ## Server panels and install scripts
 
