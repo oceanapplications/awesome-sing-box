@@ -52,6 +52,7 @@ Maintained by SagerNet, using the sing-box core directly:
 - [sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Feature-rich sing-box VPS install script (Chinese).
 - [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering server panel supporting sing-box protocols.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - One-key multi-protocol sing-box deployment script (Chinese).
+- [SingDeck](https://github.com/KnowSky404/SingDeck) - Self-hosted web dashboard for the native sing-box Service API, with live traffic, outbound groups, connections, and logs.
 
 ## Rule sets and geodata
 
